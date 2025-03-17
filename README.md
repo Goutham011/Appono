@@ -31,7 +31,7 @@ project_folder/
 Setup Instructions
 
 Clone the repository:
-- git clone <repository_url>
+- git clone <https://github.com/Goutham011/Appono.git>
 - Open the project folder in your preferred code editor.
 - Open index.html in your browser to view the website.
 
